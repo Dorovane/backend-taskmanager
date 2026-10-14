@@ -238,9 +238,8 @@ Ils couvrent notamment la logique metier, la validation des données et les midd
 - [ ] Documentation interactive de l'API (Swagger / OpenAPI)
 - [ ] Validation de l'inscription par mail via nodemailer
 - [ ] Gestion de mot de passe oublier (un patch sur "/users/:id necessite une authentification")
-- [ ] Test global avec superTest
 - [ ] Pagination et filtres sur les tâches
-- [ ] Tests d'intégration
+- [ ] Tests d'intégration / supertest
 - [ ] Conteneurisation avec Docker
 - [ ] Déploiement automatisé (CI/CD)
 
