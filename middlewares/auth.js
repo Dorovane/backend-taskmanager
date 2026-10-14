@@ -13,7 +13,7 @@ const auth = (req,res,next) => {
     try{
         const decodedToken = jwt.verify(accessToken,ACCESS_TOKEN_KEY)
 
-        req.user = decodedToken
+        req.user = decodedToken  
 
         next()
 

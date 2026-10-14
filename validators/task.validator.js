@@ -12,7 +12,7 @@ module.exports = joi.object({
             "string.max":"Maximum 10 caractere pour le nom",
             "any.required":"Le nom de la tache est obligatoire"
         }),
-    description:joi.string()
+    description:joi.string() 
         .required()
         .messages({
             "string.empty":"La description ne peut etre vide",

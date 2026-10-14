@@ -275,7 +275,7 @@ exports.partialUpdateTask = async (req, res) => {
 
     return res.status(200).json({ message: "Tâche maj avec succes" });
   } catch (error) {
-    if (error instanceof ValidationError) {
+    if (error instanceof ValidationError ) {
       console.error(error);
       return res.status(500).json({ message: error.errors[0].message });
     }

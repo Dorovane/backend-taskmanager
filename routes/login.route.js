@@ -72,7 +72,7 @@ const loginRoute = (app) => {
         { expiresIn: "1d" },
       );
 
-      if (!accessToken) {
+      if (!accessToken) { 
         throw new Error("Erreur lors de la creation du accessToken");
       }
 
