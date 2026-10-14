@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=180&section=header&text=TaskGuard%20API&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20REST%20s%C3%A9curis%C3%A9%20de%20gestion%20de%20t%C3%A2ches&descAlignY=60&descSize=18" alt="TaskGuard API" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=180&section=header&text=TaskGuard%20API&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20REST%20s%C3%A9curis%C3%A9%20de%20gestion%20de%20t%C3%A2ches&descAlignY=60&descSize=18" alt="Task Manager API" />
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
